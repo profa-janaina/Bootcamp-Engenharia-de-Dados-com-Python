@@ -1,5 +1,4 @@
-from skimage.io import imread
-from imageio import imwrite
+from skimage.io import imread, imwrite
 
 def read_image(path, is_gray = False):
     image = imread(path, as_gray = is_gray)

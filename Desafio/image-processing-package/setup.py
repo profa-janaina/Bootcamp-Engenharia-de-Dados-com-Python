@@ -13,7 +13,7 @@ setup(
     description='Image processing package using Skimage',
     long_description=page_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/profa-janaina/Bootcamp-Engenharia-de-Dados-com-Python/tree/main/Desafio/image-processing-package',
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.10',
