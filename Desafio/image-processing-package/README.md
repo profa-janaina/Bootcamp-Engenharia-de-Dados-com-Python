@@ -57,8 +57,8 @@ plot.plot_result(image1, image2, result)
 
 
  ```
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/8cd94dbb-31a6-4772-9636-b7870b9c5f2c" />
 
-![image](https://i.postimg.cc/KzxpvDyZ/Figure-1.png)
 ---
 
 ## License
